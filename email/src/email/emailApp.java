@@ -1,4 +1,4 @@
-package email;
+gitpackage email;
 
 public class emailApp {
     public static void main(String[] args){
